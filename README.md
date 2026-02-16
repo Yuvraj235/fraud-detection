@@ -10,7 +10,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 ```bash
 jupyter notebook fraud_detection.ipynb
-# Run all cells (Cell > Run All) — takes ~10 min on 6.3M rows
+
 ```
 
 ## Project Structure
